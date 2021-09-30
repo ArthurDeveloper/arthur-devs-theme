@@ -1,0 +1,21 @@
+{
+    "name": "arthur-dev-theme",
+    "displayName": "arthur-dev-theme",
+    "description": "A color theme mostly based in purple and blue colors.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Arthur Dev's Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Arthur Dev's Theme-color-theme.json"
+            }
+        ]
+    }
+}
